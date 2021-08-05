@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Naruto Uzumaki",
+      "address": "Hidden Leaf",
+      "email": "naruto@hokage.com",
+      "contact": "9876543210",
+      "id": "1"
+    },
+    {
+      "name": "Uchiha Itachi",
+      "address": "Hidden leaf",
+      "email": "mangekyou@sharingan.com",
+      "contact": "8978965412",
+      "id": "2"
+    },
+    {
+      "name": "Nagato (Pain)",
+      "address": "Hidden Rain",
+      "email": "painrocks@akatsuki.com",
+      "contact": "7536984210",
+      "id": "3"
+    },
+    {
+      "name": "Gara",
+      "address": "Hidden Sand",
+      "email": "gara@sandgod.com",
+      "contact": "9878986054",
+      "id": "3"
+    }
+  ]
+}
